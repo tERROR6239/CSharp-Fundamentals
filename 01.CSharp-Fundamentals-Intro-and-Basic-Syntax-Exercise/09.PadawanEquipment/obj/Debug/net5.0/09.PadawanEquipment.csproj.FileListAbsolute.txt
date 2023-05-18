@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\refint\09.PadawanEquipment.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\09.PadawanEquipment\obj\Debug\net5.0\ref\09.PadawanEquipment.dll

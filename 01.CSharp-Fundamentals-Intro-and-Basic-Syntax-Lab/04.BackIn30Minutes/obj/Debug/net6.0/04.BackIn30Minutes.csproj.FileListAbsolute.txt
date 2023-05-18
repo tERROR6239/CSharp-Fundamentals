@@ -1,0 +1,15 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\refint\04.BackIn30Minutes.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\04.BackIn30Minutes\obj\Debug\net6.0\ref\04.BackIn30Minutes.dll

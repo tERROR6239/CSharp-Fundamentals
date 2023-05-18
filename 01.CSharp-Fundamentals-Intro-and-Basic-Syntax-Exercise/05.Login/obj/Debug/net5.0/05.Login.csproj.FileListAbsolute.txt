@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\bin\Debug\net5.0\05.Login.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\bin\Debug\net5.0\05.Login.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\bin\Debug\net5.0\05.Login.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\bin\Debug\net5.0\05.Login.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\bin\Debug\net5.0\05.Login.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\bin\Debug\net5.0\05.Login.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\refint\05.Login.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\05.Login.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\05.Login\obj\Debug\net5.0\ref\05.Login.dll

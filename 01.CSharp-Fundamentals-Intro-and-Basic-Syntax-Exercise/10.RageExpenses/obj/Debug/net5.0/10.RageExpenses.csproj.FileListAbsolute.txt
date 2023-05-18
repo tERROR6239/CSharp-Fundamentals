@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\refint\10.RageExpenses.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10.RageExpenses\obj\Debug\net5.0\ref\10.RageExpenses.dll

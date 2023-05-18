@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\refint\06.StrongNumber.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\06.StrongNumber\obj\Debug\net5.0\ref\06.StrongNumber.dll

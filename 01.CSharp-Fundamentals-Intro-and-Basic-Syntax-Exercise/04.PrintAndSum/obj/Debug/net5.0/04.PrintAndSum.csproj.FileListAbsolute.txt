@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\refint\04.PrintAndSum.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\04.PrintAndSum\obj\Debug\net5.0\ref\04.PrintAndSum.dll

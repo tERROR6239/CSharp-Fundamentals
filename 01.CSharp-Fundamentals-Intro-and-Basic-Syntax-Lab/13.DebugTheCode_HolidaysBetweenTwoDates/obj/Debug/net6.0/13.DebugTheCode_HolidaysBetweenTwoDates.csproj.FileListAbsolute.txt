@@ -1,0 +1,15 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\bin\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\bin\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\bin\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\bin\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\bin\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\refint\13.DebugTheCode_HolidaysBetweenTwoDates.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\13.DebugTheCode_HolidaysBetweenTwoDates.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.DebugTheCode_HolidaysBetweenTwoDates\obj\Debug\net6.0\ref\13.DebugTheCode_HolidaysBetweenTwoDates.dll

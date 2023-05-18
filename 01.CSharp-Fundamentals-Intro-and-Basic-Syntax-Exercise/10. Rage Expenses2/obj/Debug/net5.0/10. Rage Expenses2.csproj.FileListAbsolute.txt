@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\bin\Debug\net5.0\10. Rage Expenses2.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\bin\Debug\net5.0\10. Rage Expenses2.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\bin\Debug\net5.0\10. Rage Expenses2.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\bin\Debug\net5.0\10. Rage Expenses2.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\bin\Debug\net5.0\10. Rage Expenses2.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\bin\Debug\net5.0\10. Rage Expenses2.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\refint\10. Rage Expenses2.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\10. Rage Expenses2.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\10. Rage Expenses2\obj\Debug\net5.0\ref\10. Rage Expenses2.dll

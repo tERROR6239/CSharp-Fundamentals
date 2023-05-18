@@ -1,0 +1,15 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\refint\01.StudentInformation.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\01.StudentInformation\obj\Debug\net6.0\ref\01.StudentInformation.dll

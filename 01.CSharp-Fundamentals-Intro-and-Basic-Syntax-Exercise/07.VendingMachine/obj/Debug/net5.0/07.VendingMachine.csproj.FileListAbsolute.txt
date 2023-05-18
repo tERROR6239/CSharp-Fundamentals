@@ -1,0 +1,16 @@
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.exe
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.deps.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.runtimeconfig.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.runtimeconfig.dev.json
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\bin\Debug\net5.0\07.VendingMachine.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.csproj.AssemblyReference.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.AssemblyInfoInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.AssemblyInfo.cs
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\refint\07.VendingMachine.dll
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.pdb
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\07.VendingMachine.genruntimeconfig.cache
+C:\Dropbox\Share\Visual Studio 2022\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\07.VendingMachine\obj\Debug\net5.0\ref\07.VendingMachine.dll
