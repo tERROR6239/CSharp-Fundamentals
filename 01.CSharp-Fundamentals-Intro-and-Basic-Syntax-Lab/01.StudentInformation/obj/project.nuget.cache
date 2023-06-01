@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iy/0lZACRRXbQ7rCazawWlSIChOGrgrKNr2cCGm1QZ6oxMkmuCHnSEWDR2tgq3LOeF5P8LiMyRvHPUl3ztsOqA==",
+  "dgSpecHash": "53QeXv5+0RTuICHxclzZJ+DJAyrVxLPj83QIc9Dr17HfTt18w+3Sw0NZNjUtcUx9OwyVt+oxKRMmmHQ6lfZrlw==",
   "success": true,
-  "projectFilePath": "C:\\Err\\Visual Studio 2022\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\01.StudentInformation.csproj",
+  "projectFilePath": "C:\\Err\\Visual Studio 2022\\CSharp-Fundamentals\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\01.StudentInformation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

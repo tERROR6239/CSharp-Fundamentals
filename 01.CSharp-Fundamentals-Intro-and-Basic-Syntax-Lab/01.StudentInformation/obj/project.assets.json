@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Err\\Visual Studio 2022\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\01.StudentInformation.csproj",
+      "projectUniqueName": "C:\\Err\\Visual Studio 2022\\CSharp-Fundamentals\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\01.StudentInformation.csproj",
       "projectName": "01.StudentInformation",
-      "projectPath": "C:\\Err\\Visual Studio 2022\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\01.StudentInformation.csproj",
+      "projectPath": "C:\\Err\\Visual Studio 2022\\CSharp-Fundamentals\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\01.StudentInformation.csproj",
       "packagesPath": "C:\\Users\\UserSX\\.nuget\\packages\\",
-      "outputPath": "C:\\Err\\Visual Studio 2022\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\obj\\",
+      "outputPath": "C:\\Err\\Visual Studio 2022\\CSharp-Fundamentals\\01.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\\01.StudentInformation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
